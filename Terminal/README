@@ -1,0 +1,25 @@
+instalation fancy bash promt
+
+
+
+i use terminator for terminal aplication
+1.  first install terminator
+    for debian base
+    u can use apt or nala
+    sudo apt install terminator
+    sudo nala install terminator
+    
+    for fedora base
+    sudo dnf install terminator
+    
+    for arch
+    u can use yay or pacman
+    pacman -S terminator
+    yay -S terminator
+    
+2.  u need to install font
+    sudo apt install fonts-powerline
+    
+3.  just copy code to 
+    copy code to .bashrc and save.
+    and then relaunce terminal aplication
